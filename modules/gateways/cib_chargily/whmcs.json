@@ -1,0 +1,23 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "cib_chargily",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "CIB - Chargily",
+    "tagline": "Acceptez le paiement en ligne par CIB les cartes les plus populaires en Algérie et augmentez vos ventes."
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/www.chargily.com\/",
+  },
+  "authors": [
+    {
+      "name": "Abdelmounaim KHANFOUCI",
+      "homepage": "https:\/\/www.github.com\/abdulmounaim"
+    }
+  ]
+}
