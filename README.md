@@ -7,7 +7,7 @@ This Plugin is to integrate ePayment gateway with Chargily easily.
 - Currently support payment by **CIB / EDAHABIA** cards and soon by **Visa / Mastercard** !
 
 # INSTALLATION STEPS
--Upload the contents of the whmcs_root folder to the root of your WHMCS installation. The contents of the "modules" folder should merge with the existing "modules" folder.
+-Upload the folder "modules" your WHMCS installation path. The contents of the "modules" folder should merge with the existing "modules" folder.
 
 -Go to System Settings > Payment Gateways > All payment Gateways and select CIB card payment & EDAHABIA card payment
 
