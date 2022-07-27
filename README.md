@@ -14,3 +14,7 @@ This Plugin is to integrate ePayment gateway with Chargily easily.
 -In the same page go to Manage existing payement gateways and fill in your informations.
 
 -Save your changes.
+
+# SCREENSHOT
+
+![preview](https://raw.githubusercontent.com/abdulmounaim/chargily-epay-whmcs/main/assests/preview.jpg "preview")
